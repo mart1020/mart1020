@@ -8,7 +8,7 @@
     My dream is to be able to work with my passions in the IT world.
     
 
-Here are some ideas to get you started:
+About Me:
 
 - 🔭 I’m currently working on ...
     an ecommerce page and an application for shifts based on .net

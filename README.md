@@ -1,14 +1,8 @@
 
 <div id="header" align="center">
-    <img src="<iframe src="<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>" alt="programador">
-    <h1 align="center"> Hola! 🖐 mi nombre es Romina y soy desarrollador .NET</h1>
-<div>    
-    
-    Soy una apasionada por la tecnologia y la programacion, me gusta emprender nuevos desafios y afianzar mis conocieminto a base de nuevos proyectos.
-    Me gusta leer y resolver rompecabezas en mi tiempo libre, seguir mis rtinas de ejercicio y organizar mi semana para rendir al 100%. Mi sueño es poder desempeñarme laboralmente con mis pasiones en el mndo IT.
+    <img src="<iframe src="https://img.freepik.com/vector-gratis/programador-estilo-dibujos-animados-trabajando_52683-22715.jpg" alt="programador">
+
  
-
-
 <div id="header" align="center">
     <h1 align="center"> Hello! 🖐 my name is Romina and I'm a .NET developer</h1>
 <div>    

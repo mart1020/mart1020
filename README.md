@@ -1,8 +1,5 @@
 
-<div id="header" align="center">
-    <img src="<iframe src="https://img.freepik.com/vector-gratis/programador-estilo-dibujos-animados-trabajando_52683-22715.jpg" alt="programador">
 
- 
 <div id="header" align="center">
     <h1 align="center"> Hello! 🖐 my name is Romina and I'm a .NET developer</h1>
 <div>    

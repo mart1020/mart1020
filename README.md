@@ -1,26 +1,23 @@
 
 <div id="header" align="center">
-    <img src="/bloom-woman-debugging-a-program.png" alt="programador">
+    <img src="<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>" alt="programador">
     <h1 align="center"> Hola! 🖐 mi nombre es Romina y soy desarrollador .NET</h1>
+<div>    
     
-    <h3>Soy una apasionada por la tecnologia y la programacion, me gusta emprender nuevos desafios y afianzar mis conocieminto a base de nuevos proyectos.
+    Soy una apasionada por la tecnologia y la programacion, me gusta emprender nuevos desafios y afianzar mis conocieminto a base de nuevos proyectos.
         Me gusta leer y resolver rompecabezas en mi tiempo libre, seguir mis rtinas de ejercicio y organizar mi semana
         para rendir al 100%. Mi sueño es poder desempeñarme laboralmente con mis pasiones en el mndo IT.
-    </h3>
-</div>
+ 
 
 ---
 
 <div id="header" align="center">
     <h1 align="center"> Hello! 🖐 my name is Romina and I'm a .NET developer</h1>
+<div>    
+    I am passionate about technology and programming, I like to undertake new challenges and strengthen my knowledge based on new projects.
+    I like to read and solve puzzles in my free time, follow my exercise routines and organize my week to give 100%. 
+    My dream is to be able to work with my passions in the IT world.
     
-    <h3> I am passionate about technology and programming, I like to undertake new challenges and strengthen my knowledge based on new projects.
-         I like to read and solve puzzles in my free time, follow my exercise routines and organize my week.
-         to give 100%. My dream is to be able to work with my passions in the IT world.
-    </h3>
-</div>
-<!--
-**mart1020/mart1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

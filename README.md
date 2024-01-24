@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-    <h1 align="center"> Hello! 🖐 my name is Romina and I'm a FullStack Developer</h1>
+    <h1 align="center"> Hello! 🖐 my name is Romina and I'm a FullStack Developer .NET</h1>
 <div>    
     I am passionate about technology and programming, I like to undertake new challenges and strengthen my knowledge based on new projects.
     I like to read and solve puzzles in my free time, follow my exercise routines and organize my week to give 100%. 

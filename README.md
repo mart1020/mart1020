@@ -53,7 +53,7 @@ I'm a student studying Information Systems Engineering :computer: at the Technol
 
 <p align="center">
 <a href="https://www.linkedin.com/in/romartarg/"><img src="https://img.shields.io/badge/Romina_Martinez_LinkedIn-1769FF?style=flat&logo=minutemailer&logoColor=white"/></a>
-<a href="https://mart1020.github.io/portafolio2025/"><img src="https://img.shields.io/badge/-Portafolio_Romina_Martinez-BD081C?style=flat&logo=maildotru&logoColor=white"/></a>    
+<a href="https://mart1020.github.io/Portafolio-2026/"><img src="https://img.shields.io/badge/-Portafolio_Romina_Martinez-BD081C?style=flat&logo=maildotru&logoColor=white"/></a>    
 <a href="mailto:martinezromina@outlook.com.ar"><img src="https://img.shields.io/badge/Enviame un mail-1877F8?style=flat&logo=mailboxdotorg&logoColor=white"/></a>
 
 
